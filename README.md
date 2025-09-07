@@ -21,7 +21,7 @@
   
     technologies: {
      JavaScript:     ["Angular"];
-     PHP:            ["Laravel];
+     Ruby:           ["Ruby on Rails];
      APIs:           ["REST"];
      CloudComputing: ["Docker"];
      };
