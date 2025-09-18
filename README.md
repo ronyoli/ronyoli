@@ -21,7 +21,7 @@
   
     technologies: {
      JavaScript:     ["Angular"];
-     Ruby:           ["Ruby on Rails];
+     Java:           ["SpringBoot"];
      APIs:           ["REST"];
      CloudComputing: ["Docker"];
      };
